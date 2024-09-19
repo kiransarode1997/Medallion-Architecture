@@ -1,0 +1,28 @@
+product_id	product_name	category	price	stock_quantity
+PROD023	Monitor	Office Equipment	993.13	316
+PROD006	Headphones	Electronics	984.35	15
+PROD019	Smartphone	Office Equipment	768.08	346
+PROD010	Keyboard	Electronics	414.3	186
+PROD012	Camera	Electronics	393.0	391
+PROD001	Printer	Electronics	407.29	145
+PROD025	Tablet	Office Equipment	928.22	371
+PROD027	Laptop	Office Equipment	325.73	350
+PROD014	Camera	Electronics	768.01	128
+PROD004	Smartwatch	Office Equipment	442.78	100
+PROD018	Monitor	Electronics	552.71	451
+PROD008	Headphones	Accessories	611.23	76
+PROD013	Smartwatch	Accessories	455.4	221
+PROD028	Headphones	Electronics	333.44	129
+PROD003	Smartwatch	Office Equipment	113.16	94
+PROD007	Mouse	Accessories	484.28	440
+PROD029	Monitor	Electronics	143.16	305
+PROD016	Tablet	Electronics	131.52	328
+PROD009	Printer	Electronics	160.14	327
+PROD024	Smartwatch	Electronics	722.01	482
+PROD002	Printer	Office Equipment	637.37	383
+PROD005	Keyboard	Office Equipment	175.1	119
+PROD011	Tablet	Electronics	108.41	75
+PROD022	Laptop	Accessories	860.98	163
+PROD021	Smartphone	Accessories	189.36	351
+PROD020	Headphones	Electronics	886.18	482
+PROD017	Tablet	Accessories	977.73	399

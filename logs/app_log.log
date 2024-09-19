@@ -1,0 +1,843 @@
+2024-09-09 10:39:25,102 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 10:39:25,133 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 10:39:25,136 - matplotlib - DEBUG - interactive is False
+2024-09-09 10:39:25,137 - matplotlib - DEBUG - platform is win32
+2024-09-09 10:39:25,313 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 10:39:25,322 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 10:39:25,820 - root - INFO - Pipeline Started
+2024-09-09 10:39:25,820 - create_objects - INFO - Spark Object Creation started
+2024-09-09 10:39:45,266 - validations - INFO - validate_spark_object() started
+2024-09-09 10:39:57,831 - validations - INFO - validate_spark_object() ended
+2024-09-09 10:39:57,831 - validations - WARNING - Spark Object validation success
+2024-09-09 10:39:57,831 - root - ERROR - Error in main, please check details [WinError 267] The directory name is invalid: 'F:\\Data_engineer\\Python\\pyspark_project\\pyspark_project\\staging\\student.json'
+2024-09-09 10:41:49,148 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 10:41:49,179 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 10:41:49,183 - matplotlib - DEBUG - interactive is False
+2024-09-09 10:41:49,183 - matplotlib - DEBUG - platform is win32
+2024-09-09 10:41:49,338 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 10:41:49,344 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 10:41:49,836 - root - INFO - Pipeline Started
+2024-09-09 10:41:49,836 - create_objects - INFO - Spark Object Creation started
+2024-09-09 10:42:06,112 - validations - INFO - validate_spark_object() started
+2024-09-09 10:42:17,458 - validations - INFO - validate_spark_object() ended
+2024-09-09 10:42:17,459 - validations - WARNING - Spark Object validation success
+2024-09-09 10:42:17,459 - root - ERROR - Error in main, please check details [WinError 267] The directory name is invalid: 'F:\\Data_engineer\\Python\\pysparkProject_medallian\\data\\sample_customer_reviews.json'
+2024-09-09 10:55:09,501 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 10:55:09,532 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 10:55:09,536 - matplotlib - DEBUG - interactive is False
+2024-09-09 10:55:09,536 - matplotlib - DEBUG - platform is win32
+2024-09-09 10:55:09,699 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 10:55:09,708 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 10:55:10,220 - root - INFO - Pipeline Started
+2024-09-09 10:55:10,221 - create_objects - INFO - Spark Object Creation started
+2024-09-09 10:55:22,985 - validations - INFO - validate_spark_object() started
+2024-09-09 10:55:34,323 - validations - INFO - validate_spark_object() ended
+2024-09-09 10:55:34,323 - validations - WARNING - Spark Object validation success
+2024-09-09 10:55:34,323 - root - ERROR - Error in main, please check details [WinError 267] The directory name is invalid: 'F:\\Data_engineer\\Python\\pysparkProject_medallian\\data\\sample_customer_reviews.json'
+2024-09-09 11:30:44,128 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 11:30:44,153 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 11:30:44,155 - matplotlib - DEBUG - interactive is False
+2024-09-09 11:30:44,156 - matplotlib - DEBUG - platform is win32
+2024-09-09 11:30:44,313 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 11:30:44,322 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 11:30:44,820 - root - INFO - Pipeline Started
+2024-09-09 11:30:44,820 - create_objects - INFO - Spark Object Creation started
+2024-09-09 11:30:57,556 - validations - INFO - validate_spark_object() started
+2024-09-09 11:31:09,128 - validations - INFO - validate_spark_object() ended
+2024-09-09 11:31:09,128 - validations - WARNING - Spark Object validation success
+2024-09-09 11:31:09,129 - root - ERROR - Error in main, please check details [WinError 267] The directory name is invalid: 'F:\\Data_engineer\\Python\\pysparkProject_medallian\\data\\sample_customer_reviews.json'
+2024-09-09 11:32:27,094 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 11:32:27,125 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 11:32:27,128 - matplotlib - DEBUG - interactive is False
+2024-09-09 11:32:27,129 - matplotlib - DEBUG - platform is win32
+2024-09-09 11:32:27,290 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 11:32:27,297 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 11:32:27,793 - root - INFO - Pipeline Started
+2024-09-09 11:32:27,793 - create_objects - INFO - Spark Object Creation started
+2024-09-09 11:32:40,513 - validations - INFO - validate_spark_object() started
+2024-09-09 11:32:51,777 - validations - INFO - validate_spark_object() ended
+2024-09-09 11:32:51,778 - validations - WARNING - Spark Object validation success
+2024-09-09 11:32:51,778 - root - ERROR - Error in main, please check details [WinError 267] The directory name is invalid: 'F:\\Data_engineer\\Python\\pyspark_project\\pyspark_project\\staging\\student.json'
+2024-09-09 11:46:59,675 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 11:46:59,706 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 11:46:59,710 - matplotlib - DEBUG - interactive is False
+2024-09-09 11:46:59,710 - matplotlib - DEBUG - platform is win32
+2024-09-09 11:46:59,901 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 11:46:59,908 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 11:47:00,414 - root - INFO - Pipeline Started
+2024-09-09 11:47:00,415 - create_objects - INFO - Spark Object Creation started
+2024-09-09 11:47:13,355 - validations - INFO - validate_spark_object() started
+2024-09-09 11:47:24,532 - validations - INFO - validate_spark_object() ended
+2024-09-09 11:47:24,532 - validations - WARNING - Spark Object validation success
+2024-09-09 11:47:24,533 - root - ERROR - Error in main, please check details [WinError 267] The directory name is invalid: 'F:\\Data_engineer\\Python\\pyspark_project\\pyspark_project\\staging\\student.json'
+2024-09-09 16:15:36,401 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 16:15:36,468 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 16:15:36,471 - matplotlib - DEBUG - interactive is False
+2024-09-09 16:15:36,472 - matplotlib - DEBUG - platform is win32
+2024-09-09 16:15:36,639 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 16:15:36,705 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 16:15:38,038 - root - INFO - Pipeline Started
+2024-09-09 16:15:38,038 - create_objects - INFO - Spark Object Creation started
+2024-09-09 16:15:54,851 - validations - INFO - validate_spark_object() started
+2024-09-09 16:16:04,416 - validations - INFO - validate_spark_object() ended
+2024-09-09 16:16:04,416 - validations - WARNING - Spark Object validation success
+2024-09-09 16:16:04,417 - data_ingest - INFO - Loading JSON file...
+2024-09-09 16:16:04,439 - data_ingest - ERROR - Error in create_dataframe() from data_ingest.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_ingest.py", line 18, in create_dataframe
+    df = spark.read.json(file_path, schema=infSch)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\readwriter.py", line 388, in json
+    self._set_opts(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\readwriter.py", line 50, in _set_opts
+    self.schema(schema)  # type: ignore[attr-defined]
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\readwriter.py", line 156, in schema
+    raise TypeError("schema should be StructType or string")
+TypeError: schema should be StructType or string
+2024-09-09 16:16:04,551 - root - ERROR - Error in main, please check details schema should be StructType or string
+2024-09-09 16:57:33,320 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 16:57:33,382 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 16:57:33,385 - matplotlib - DEBUG - interactive is False
+2024-09-09 16:57:33,385 - matplotlib - DEBUG - platform is win32
+2024-09-09 16:57:33,538 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 16:57:33,543 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 16:57:33,982 - root - INFO - Pipeline Started
+2024-09-09 16:57:33,982 - create_objects - INFO - Spark Object Creation started
+2024-09-09 16:57:47,513 - validations - INFO - validate_spark_object() started
+2024-09-09 16:57:55,095 - validations - INFO - validate_spark_object() ended
+2024-09-09 16:57:55,095 - validations - WARNING - Spark Object validation success
+2024-09-09 16:57:55,096 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 16:57:56,136 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 16:57:56,137 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 16:57:56,283 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 16:57:56,283 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 16:57:56,453 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 16:57:56,453 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json for json
+2024-09-09 16:57:57,133 - root - INFO - Dataframe create successfully and dataframe name is : customer_review_df 
+2024-09-09 16:57:57,133 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv for csv
+2024-09-09 16:57:57,850 - root - INFO - Dataframe create successfully and dataframe name is : sample_order_table_df
+2024-09-09 16:57:57,850 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 16:57:58,157 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 16:57:58,157 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 16:57:58,319 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 16:57:58,320 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 16:57:58,468 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 16:57:58,468 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 16:57:58,571 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 16:57:58,572 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 16:57:58,652 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 16:57:58,652 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 16:57:58,749 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 16:57:58,749 - root - INFO - Pipeline End
+2024-09-09 17:31:33,153 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 17:31:33,205 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 17:31:33,207 - matplotlib - DEBUG - interactive is False
+2024-09-09 17:31:33,207 - matplotlib - DEBUG - platform is win32
+2024-09-09 17:31:33,352 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 17:31:33,358 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 17:31:33,917 - root - INFO - Pipeline Started
+2024-09-09 17:31:33,917 - create_objects - INFO - Spark Object Creation started
+2024-09-09 17:31:59,075 - validations - INFO - validate_spark_object() started
+2024-09-09 17:32:06,637 - validations - INFO - validate_spark_object() ended
+2024-09-09 17:32:06,638 - validations - WARNING - Spark Object validation success
+2024-09-09 17:32:06,638 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 17:32:07,659 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 17:32:07,659 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 17:32:07,809 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 17:32:07,809 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 17:32:07,975 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 17:32:07,975 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json for json
+2024-09-09 17:32:08,689 - root - INFO - Dataframe create successfully and dataframe name is : customer_review_df 
+2024-09-09 17:32:08,689 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv for csv
+2024-09-09 17:32:09,288 - root - INFO - Dataframe create successfully and dataframe name is : sample_order_table_df
+2024-09-09 17:32:09,288 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 17:32:09,430 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 17:32:09,431 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 17:32:09,522 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 17:32:09,522 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 17:32:09,621 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 17:32:09,621 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 17:32:09,713 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 17:32:09,713 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 17:32:09,836 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 17:32:09,837 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 17:32:09,953 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 17:32:09,953 - root - INFO - Pipeline End
+2024-09-09 18:32:52,659 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 18:32:52,797 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 18:32:52,799 - matplotlib - DEBUG - interactive is False
+2024-09-09 18:32:52,799 - matplotlib - DEBUG - platform is win32
+2024-09-09 18:32:52,974 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 18:32:52,985 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 18:32:53,450 - root - INFO - Pipeline Started
+2024-09-09 18:32:53,451 - create_objects - INFO - Spark Object Creation started
+2024-09-09 18:33:07,055 - validations - INFO - validate_spark_object() started
+2024-09-09 18:33:14,423 - validations - INFO - validate_spark_object() ended
+2024-09-09 18:33:14,423 - validations - WARNING - Spark Object validation success
+2024-09-09 18:33:14,423 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 18:33:15,416 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 18:33:15,416 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 18:33:15,551 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 18:33:15,551 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 18:33:15,674 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 18:33:15,674 - root - ERROR - Error in main, please check details local variable 'sample_order_table_df' referenced before assignment
+2024-09-09 18:34:57,942 - matplotlib - DEBUG - matplotlib data path: F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\matplotlib\mpl-data
+2024-09-09 18:34:57,958 - matplotlib - DEBUG - CONFIGDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 18:34:57,960 - matplotlib - DEBUG - interactive is False
+2024-09-09 18:34:57,960 - matplotlib - DEBUG - platform is win32
+2024-09-09 18:34:58,048 - matplotlib - DEBUG - CACHEDIR=C:\Users\KIRAN SARODE\.matplotlib
+2024-09-09 18:34:58,052 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\KIRAN SARODE\.matplotlib\fontlist-v390.json
+2024-09-09 18:34:58,341 - root - INFO - Pipeline Started
+2024-09-09 18:34:58,341 - create_objects - INFO - Spark Object Creation started
+2024-09-09 18:35:10,992 - validations - INFO - validate_spark_object() started
+2024-09-09 18:35:17,471 - validations - INFO - validate_spark_object() ended
+2024-09-09 18:35:17,471 - validations - WARNING - Spark Object validation success
+2024-09-09 18:35:17,471 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 18:35:18,314 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 18:35:18,315 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 18:35:18,447 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 18:35:18,447 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 18:35:18,557 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 18:35:18,557 - data_cleaning - INFO - Cleaning student DF started
+2024-09-09 18:35:18,558 - data_cleaning - ERROR - Error in clean_st_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 38, in clean_customer_df
+    customers_df = df.customers_df.withColumn( "full_name", concat_ws(", ", col("first_name"), col("last_name")))
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 2979, in __getattr__
+    raise AttributeError(
+AttributeError: 'DataFrame' object has no attribute 'customers_df'
+2024-09-09 18:35:18,559 - root - ERROR - Error in main, please check details 'DataFrame' object has no attribute 'customers_df'
+2024-09-09 18:36:58,306 - root - INFO - Pipeline Started
+2024-09-09 18:36:58,306 - create_objects - INFO - Spark Object Creation started
+2024-09-09 18:37:21,958 - validations - INFO - validate_spark_object() started
+2024-09-09 18:37:28,243 - validations - INFO - validate_spark_object() ended
+2024-09-09 18:37:28,243 - validations - WARNING - Spark Object validation success
+2024-09-09 18:37:28,243 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 18:37:29,075 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 18:37:29,075 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 18:37:29,213 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 18:37:29,213 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 18:37:29,359 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 18:37:29,359 - data_cleaning - INFO - Cleaning student DF started
+2024-09-09 18:37:29,360 - data_cleaning - ERROR - Error in clean_st_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 38, in clean_customer_df
+    customers_df = df.customers_df.withColumn( "full_name", concat_ws(", ", col("first_name"), col("last_name")))
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 2979, in __getattr__
+    raise AttributeError(
+AttributeError: 'DataFrame' object has no attribute 'customers_df'
+2024-09-09 18:37:29,361 - root - ERROR - Error in main, please check details 'DataFrame' object has no attribute 'customers_df'
+2024-09-09 18:38:47,767 - root - INFO - Pipeline Started
+2024-09-09 18:38:47,767 - create_objects - INFO - Spark Object Creation started
+2024-09-09 18:39:00,523 - validations - INFO - validate_spark_object() started
+2024-09-09 18:39:06,922 - validations - INFO - validate_spark_object() ended
+2024-09-09 18:39:06,922 - validations - WARNING - Spark Object validation success
+2024-09-09 18:39:06,922 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 18:39:07,747 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 18:39:07,747 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 18:39:07,875 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 18:39:07,875 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 18:39:07,985 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 18:39:07,985 - data_cleaning - INFO - Cleaning student DF started
+2024-09-09 18:39:08,242 - data_cleaning - ERROR - Error in clean_st_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 38, in clean_customer_df
+    customers_df = df.withColumn( "full_name", concat_ws(", ", col("first_name"), col("last_name")))
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 4791, in withColumn
+    return DataFrame(self._jdf.withColumn(colName, col._jc), self.sparkSession)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\py4j\java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\errors\exceptions\captured.py", line 175, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `first_name` cannot be resolved. Did you mean one of the following? [`_corrupt_record`].;
+'Project [_corrupt_record#10, concat_ws(, , 'first_name, 'last_name) AS full_name#32]
++- Relation [_corrupt_record#10] json
+
+2024-09-09 18:39:08,398 - root - ERROR - Error in main, please check details [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `first_name` cannot be resolved. Did you mean one of the following? [`_corrupt_record`].;
+'Project [_corrupt_record#10, concat_ws(, , 'first_name, 'last_name) AS full_name#32]
++- Relation [_corrupt_record#10] json
+
+2024-09-09 18:44:27,674 - root - INFO - Pipeline Started
+2024-09-09 18:44:27,674 - create_objects - INFO - Spark Object Creation started
+2024-09-09 18:44:41,093 - validations - INFO - validate_spark_object() started
+2024-09-09 18:44:47,913 - validations - INFO - validate_spark_object() ended
+2024-09-09 18:44:47,914 - validations - WARNING - Spark Object validation success
+2024-09-09 18:44:47,914 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 18:44:48,783 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 18:44:48,783 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-09 18:44:48,910 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 18:44:48,911 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-09 18:44:49,065 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 18:44:49,065 - data_cleaning - INFO - Cleaning student DF started
+2024-09-09 18:44:49,337 - data_cleaning - ERROR - Error in clean_st_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 39, in clean_customer_df
+    customers_df = corrupt_records_df.withColumn( "full_name", concat_ws(", ", col("first_name"), col("last_name")))
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 4791, in withColumn
+    return DataFrame(self._jdf.withColumn(colName, col._jc), self.sparkSession)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\py4j\java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\errors\exceptions\captured.py", line 175, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `first_name` cannot be resolved. Did you mean one of the following? [`_corrupt_record`].;
+'Project [_corrupt_record#10, concat_ws(, , 'first_name, 'last_name) AS full_name#33]
++- Filter isnotnull(_corrupt_record#10)
+   +- Relation [_corrupt_record#10] json
+
+2024-09-09 18:44:49,352 - root - ERROR - Error in main, please check details [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `first_name` cannot be resolved. Did you mean one of the following? [`_corrupt_record`].;
+'Project [_corrupt_record#10, concat_ws(, , 'first_name, 'last_name) AS full_name#33]
++- Filter isnotnull(_corrupt_record#10)
+   +- Relation [_corrupt_record#10] json
+
+2024-09-09 18:46:15,691 - root - INFO - Pipeline Started
+2024-09-09 18:46:15,691 - create_objects - INFO - Spark Object Creation started
+2024-09-09 18:46:28,224 - validations - INFO - validate_spark_object() started
+2024-09-09 18:46:34,469 - validations - INFO - validate_spark_object() ended
+2024-09-09 18:46:34,469 - validations - WARNING - Spark Object validation success
+2024-09-09 18:46:34,470 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-09 18:46:34,470 - data_ingest - ERROR - Error in create_dataframe() from data_ingest.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_ingest.py", line 22, in create_dataframe
+    logger.info(f"Creating DF for {file_path} for {extension}").csv(file_path ,sep='\t')
+AttributeError: 'NoneType' object has no attribute 'csv'
+2024-09-09 18:46:34,470 - root - ERROR - Error in main, please check details 'NoneType' object has no attribute 'csv'
+2024-09-09 18:49:37,546 - root - INFO - Pipeline Started
+2024-09-09 18:49:37,546 - create_objects - INFO - Spark Object Creation started
+2024-09-09 18:50:01,196 - validations - INFO - validate_spark_object() started
+2024-09-09 18:50:07,749 - validations - INFO - validate_spark_object() ended
+2024-09-09 18:50:07,749 - validations - WARNING - Spark Object validation success
+2024-09-09 18:50:07,750 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 18:50:09,067 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 18:50:09,068 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 18:50:09,348 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 18:50:09,348 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 18:50:09,606 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 18:50:09,606 - data_cleaning - INFO - Cleaning student DF started
+2024-09-09 18:50:09,839 - data_cleaning - ERROR - Error in clean_st_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 37, in clean_customer_df
+    corrupt_records_df = df.filter(col("_corrupt_record").isNotNull())
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 3140, in filter
+    jdf = self._jdf.filter(condition._jc)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\py4j\java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\errors\exceptions\captured.py", line 175, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `_corrupt_record` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `phone_number`, `address`, `last_name`].;
+'Filter isnotnull('_corrupt_record)
++- Relation [customer_id#19,first_name#20,last_name#21,email#22,address#23,phone_number#24L] csv
+
+2024-09-09 18:50:09,860 - root - ERROR - Error in main, please check details [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `_corrupt_record` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `phone_number`, `address`, `last_name`].;
+'Filter isnotnull('_corrupt_record)
++- Relation [customer_id#19,first_name#20,last_name#21,email#22,address#23,phone_number#24L] csv
+
+2024-09-09 19:27:09,129 - root - INFO - Pipeline Started
+2024-09-09 19:27:09,130 - create_objects - INFO - Spark Object Creation started
+2024-09-09 19:27:37,501 - validations - INFO - validate_spark_object() started
+2024-09-09 19:27:48,757 - validations - INFO - validate_spark_object() ended
+2024-09-09 19:27:48,757 - validations - WARNING - Spark Object validation success
+2024-09-09 19:27:48,758 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 19:27:51,031 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 19:27:51,031 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 19:27:51,607 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 19:27:51,608 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 19:27:52,125 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 19:27:52,126 - data_cleaning - INFO - Cleaning student DF started
+2024-09-09 19:27:52,522 - data_cleaning - ERROR - Error in clean_st_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 37, in clean_customer_df
+    corrupt_records_df = df.filter(col("_corrupt_record").isNotNull())
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 3140, in filter
+    jdf = self._jdf.filter(condition._jc)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\py4j\java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\errors\exceptions\captured.py", line 175, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `_corrupt_record` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `phone_number`, `address`, `last_name`].;
+'Filter isnotnull('_corrupt_record)
++- Relation [customer_id#19,first_name#20,last_name#21,email#22,address#23,phone_number#24L] csv
+
+2024-09-09 19:27:52,566 - root - ERROR - Error in main, please check details [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `_corrupt_record` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `phone_number`, `address`, `last_name`].;
+'Filter isnotnull('_corrupt_record)
++- Relation [customer_id#19,first_name#20,last_name#21,email#22,address#23,phone_number#24L] csv
+
+2024-09-09 19:39:19,398 - root - INFO - Pipeline Started
+2024-09-09 19:39:19,398 - create_objects - INFO - Spark Object Creation started
+2024-09-09 19:39:36,497 - validations - INFO - validate_spark_object() started
+2024-09-09 19:39:47,777 - validations - INFO - validate_spark_object() ended
+2024-09-09 19:39:47,778 - validations - WARNING - Spark Object validation success
+2024-09-09 19:39:47,778 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 19:39:50,152 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 19:39:50,153 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 19:39:50,758 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 19:39:50,758 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 19:39:51,292 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 19:39:51,644 - data_cleaning - ERROR - Error in clean_order_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 15, in clean_order_df
+    orders_df_cleaned = df.dropDuplicates() \
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 5347, in drop
+    return self.df.dropna(how=how, thresh=thresh, subset=subset)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 4004, in dropna
+    return DataFrame(self._jdf.na().drop(thresh, self._jseq(subset)), self.sparkSession)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\py4j\java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\errors\exceptions\captured.py", line 175, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `order_id` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `last_name`, `email`, `address`, `phone_number`].
+2024-09-09 19:39:51,701 - root - ERROR - Error in main, please check details [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `order_id` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `last_name`, `email`, `address`, `phone_number`].
+2024-09-09 19:43:47,801 - root - INFO - Pipeline Started
+2024-09-09 19:43:47,802 - create_objects - INFO - Spark Object Creation started
+2024-09-09 19:44:06,401 - validations - INFO - validate_spark_object() started
+2024-09-09 19:44:22,315 - validations - INFO - validate_spark_object() ended
+2024-09-09 19:44:22,316 - validations - WARNING - Spark Object validation success
+2024-09-09 19:44:22,316 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 19:44:25,255 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 19:44:25,255 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 19:44:25,760 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 19:44:25,760 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 19:44:26,453 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 19:44:26,964 - data_cleaning - ERROR - Error in clean_order_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 15, in clean_order_df
+    orders_df_cleaned = df.dropDuplicates() \
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 5347, in drop
+    return self.df.dropna(how=how, thresh=thresh, subset=subset)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 4004, in dropna
+    return DataFrame(self._jdf.na().drop(thresh, self._jseq(subset)), self.sparkSession)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\py4j\java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\errors\exceptions\captured.py", line 175, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `order_id` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `last_name`, `email`, `address`, `phone_number`].
+2024-09-09 19:44:27,181 - root - ERROR - Error in main, please check details [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `order_id` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `last_name`, `email`, `address`, `phone_number`].
+2024-09-09 19:49:03,373 - root - INFO - Pipeline Started
+2024-09-09 19:49:03,373 - create_objects - INFO - Spark Object Creation started
+2024-09-09 19:49:23,066 - validations - INFO - validate_spark_object() started
+2024-09-09 19:49:35,261 - validations - INFO - validate_spark_object() ended
+2024-09-09 19:49:35,262 - validations - WARNING - Spark Object validation success
+2024-09-09 19:49:35,262 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 19:49:37,745 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 19:49:37,745 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 19:49:38,324 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 19:49:38,325 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 19:49:38,792 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 19:49:38,792 - root - ERROR - Error in main, please check details local variable 'sample_order_table_df' referenced before assignment
+2024-09-09 19:53:20,223 - root - INFO - Pipeline Started
+2024-09-09 19:53:20,223 - create_objects - INFO - Spark Object Creation started
+2024-09-09 19:53:49,470 - validations - INFO - validate_spark_object() started
+2024-09-09 19:54:00,874 - validations - INFO - validate_spark_object() ended
+2024-09-09 19:54:00,875 - validations - WARNING - Spark Object validation success
+2024-09-09 19:54:00,875 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 19:54:03,207 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 19:54:03,207 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 19:54:03,766 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 19:54:03,766 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 19:54:04,351 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 19:54:04,351 - root - ERROR - Error in main, please check details local variable 'sample_order_table_df' referenced before assignment
+2024-09-09 19:56:21,142 - root - INFO - Pipeline Started
+2024-09-09 19:56:21,143 - create_objects - INFO - Spark Object Creation started
+2024-09-09 19:56:50,330 - validations - INFO - validate_spark_object() started
+2024-09-09 19:57:01,309 - validations - INFO - validate_spark_object() ended
+2024-09-09 19:57:01,310 - validations - WARNING - Spark Object validation success
+2024-09-09 19:57:01,310 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 19:57:03,599 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 19:57:03,599 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 19:57:04,186 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 19:57:04,186 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 19:57:04,724 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 19:57:04,725 - root - ERROR - Error in main, please check details local variable 'sample_order_table_df' referenced before assignment
+2024-09-09 19:57:57,825 - root - INFO - Pipeline Started
+2024-09-09 19:57:57,826 - create_objects - INFO - Spark Object Creation started
+2024-09-09 19:58:14,979 - validations - INFO - validate_spark_object() started
+2024-09-09 19:58:26,127 - validations - INFO - validate_spark_object() ended
+2024-09-09 19:58:26,128 - validations - WARNING - Spark Object validation success
+2024-09-09 19:58:26,128 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 19:58:28,373 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 19:58:28,373 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 19:58:28,991 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 19:58:28,991 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 19:58:29,541 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 19:58:29,542 -
+2024-09-09 20:02:28,955 - root - INFO - Pipeline Started
+2024-09-09 20:02:28,955 - create_objects - INFO - Spark Object Creation started
+2024-09-09 20:02:58,124 - validations - INFO - validate_spark_object() started
+2024-09-09 20:03:09,369 - validations - INFO - validate_spark_object() ended
+2024-09-09 20:03:09,369 - validations - WARNING - Spark Object validation success
+2024-09-09 20:03:09,370 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 20:03:11,623 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 20:03:11,623 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 20:03:12,163 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 20:03:12,163 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 20:03:12,653 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 20:03:12,653 - root - ERROR - Error in main, please check details local variable 'order_df' referenced before assignment
+2024-09-09 20:06:21,248 - root - INFO - Pipeline Started
+2024-09-09 20:06:21,248 - create_objects - INFO - Spark Object Creation started
+2024-09-09 20:06:39,276 - validations - INFO - validate_spark_object() started
+2024-09-09 20:06:50,456 - validations - INFO - validate_spark_object() ended
+2024-09-09 20:06:50,456 - validations - WARNING - Spark Object validation success
+2024-09-09 20:06:50,456 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 20:06:52,791 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 20:06:52,791 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 20:06:53,408 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 20:06:53,409 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 20:06:53,929 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 20:06:53,929 - root - ERROR - Error in main, please check details local variable 'order_df' referenced before assignment
+2024-09-09 20:14:04,436 - root - INFO - Pipeline Started
+2024-09-09 20:14:04,436 - create_objects - INFO - Spark Object Creation started
+2024-09-09 20:14:22,024 - validations - INFO - validate_spark_object() started
+2024-09-09 20:14:33,507 - validations - INFO - validate_spark_object() ended
+2024-09-09 20:14:33,507 - validations - WARNING - Spark Object validation success
+2024-09-09 20:14:33,508 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 20:14:35,860 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 20:14:35,861 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 20:14:36,499 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 20:14:36,500 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 20:14:37,016 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 20:14:37,016 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json with json extension
+2024-09-09 20:14:37,394 - root - INFO - Dataframe create successfully and dataframe name is : customer_review_df 
+2024-09-09 20:14:37,395 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv with csv extension
+2024-09-09 20:14:38,240 - root - INFO - Dataframe create successfully and dataframe name is : sample_order_table_df
+2024-09-09 20:14:41,696 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 20:14:42,157 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 20:14:42,158 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 20:14:42,453 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 20:14:42,453 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 20:14:42,855 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 20:14:42,855 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-09 20:14:43,189 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-09 20:14:43,190 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-09 20:14:43,508 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-09 20:14:43,508 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-09 20:14:43,823 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-09 20:14:43,824 - root - INFO - Pipeline End
+2024-09-10 08:30:13,853 - root - INFO - Pipeline Started
+2024-09-10 08:30:13,863 - create_objects - INFO - Spark Object Creation started
+2024-09-10 08:30:32,302 - validations - INFO - validate_spark_object() started
+2024-09-10 08:30:45,807 - validations - INFO - validate_spark_object() ended
+2024-09-10 08:30:45,807 - validations - WARNING - Spark Object validation success
+2024-09-10 08:30:45,808 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 08:30:48,754 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 08:30:48,754 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 08:30:49,310 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 08:30:49,311 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 08:30:49,817 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 08:30:49,817 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json with json extension
+2024-09-10 08:30:50,334 - root - INFO - Dataframe create successfully and dataframe name is : customer_review_df 
+2024-09-10 08:30:50,335 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv with csv extension
+2024-09-10 08:30:51,215 - root - INFO - Dataframe create successfully and dataframe name is : sample_order_table_df
+2024-09-10 08:30:54,617 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 08:30:55,040 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 08:30:55,041 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 08:30:55,395 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 08:30:55,396 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 08:30:55,695 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 08:30:55,696 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 08:30:56,030 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 08:30:56,030 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 08:30:56,406 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 08:30:56,406 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 08:30:56,704 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 08:30:56,704 - root - INFO - Pipeline End
+2024-09-10 08:49:10,511 - root - INFO - Pipeline Started
+2024-09-10 08:49:10,511 - create_objects - INFO - Spark Object Creation started
+2024-09-10 08:49:25,972 - validations - INFO - validate_spark_object() started
+2024-09-10 08:49:35,449 - validations - INFO - validate_spark_object() ended
+2024-09-10 08:49:35,449 - validations - WARNING - Spark Object validation success
+2024-09-10 08:49:35,449 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 08:49:37,346 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 08:49:37,346 - data_cleaning - INFO - Cleaning student DF started
+2024-09-10 08:49:37,643 - data_cleaning - ERROR - Error in clean_st_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 48, in clean_customer_df
+    corrupt_records_df = df.filter(col("_corrupt_record").isNotNull())
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\dataframe.py", line 3140, in filter
+    jdf = self._jdf.filter(condition._jc)
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\py4j\java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\errors\exceptions\captured.py", line 175, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `_corrupt_record` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `phone_number`, `address`, `last_name`].;
+'Filter isnotnull('_corrupt_record)
++- Relation [customer_id#19,first_name#20,last_name#21,email#22,address#23,phone_number#24L] csv
+
+2024-09-10 08:49:37,796 - root - ERROR - Error in main, please check details [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `_corrupt_record` cannot be resolved. Did you mean one of the following? [`customer_id`, `first_name`, `phone_number`, `address`, `last_name`].;
+'Filter isnotnull('_corrupt_record)
++- Relation [customer_id#19,first_name#20,last_name#21,email#22,address#23,phone_number#24L] csv
+
+2024-09-10 09:03:32,142 - root - INFO - Pipeline Started
+2024-09-10 09:03:32,142 - create_objects - INFO - Spark Object Creation started
+2024-09-10 09:03:47,367 - validations - INFO - validate_spark_object() started
+2024-09-10 09:03:55,825 - validations - INFO - validate_spark_object() ended
+2024-09-10 09:03:55,826 - validations - WARNING - Spark Object validation success
+2024-09-10 09:03:55,826 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 09:03:57,696 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 09:03:57,696 - data_cleaning - INFO - Cleaning student DF started
+2024-09-10 09:03:58,340 - data_cleaning - ERROR - Error in clean_st_df() from data_cleaning.py script 
+Traceback (most recent call last):
+  File "F:\Data_engineer\Python\pysparkProject_medallian\bin\data_cleaning.py", line 65, in clean_customer_df
+    df_agg = df.groupBy('customer_id').agg(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\sql\group.py", line 175, in agg
+    jdf = self._jgd.agg(exprs[0]._jc, _to_seq(self.session._sc, [c._jc for c in exprs[1:]]))
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\py4j\java_gateway.py", line 1322, in __call__
+    return_value = get_return_value(
+  File "F:\Data_engineer\Python\pysparkProject_medallian\.venv\lib\site-packages\pyspark\errors\exceptions\captured.py", line 175, in deco
+    raise converted from None
+pyspark.errors.exceptions.captured.AnalysisException: [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `total_orders` cannot be resolved. Did you mean one of the following? [`address`, `full_name`, `first_name`, `last_name`, `phone_number`].;
+'Aggregate [customer_id#19], [customer_id#19, first(full_name#31, false) AS full_name#81, first(email_cleaned#40, false) AS email_cleaned#83, first(address_cleaned#49, false) AS address_cleaned#85, first(phone_number_cleaned#59, false) AS phone_number_cleaned#87, sum(cast('total_orders as int)) AS total_orders#89]
++- Project [customer_id#19, first_name#20, last_name#21, email#22, address#23, phone_number#24L, full_name#31, email_cleaned#40, address_cleaned#49, CASE WHEN isnull(phone_number#24L) THEN Phone Not Available ELSE regexp_replace(cast(phone_number#24L as string), [^0-9], , 1) END AS phone_number_cleaned#59]
+   +- Project [customer_id#19, first_name#20, last_name#21, email#22, address#23, phone_number#24L, full_name#31, email_cleaned#40, CASE WHEN isnull(address#23) THEN Address Not Available ELSE address#23 END AS address_cleaned#49]
+      +- Project [customer_id#19, first_name#20, last_name#21, email#22, address#23, phone_number#24L, full_name#31, CASE WHEN (Contains(email#22, @) AND Contains(email#22, .)) THEN email#22 ELSE cast(null as string) END AS email_cleaned#40]
+         +- Project [customer_id#19, first_name#20, last_name#21, email#22, address#23, phone_number#24L, concat_ws(, , first_name#20, last_name#21) AS full_name#31]
+            +- Relation [customer_id#19,first_name#20,last_name#21,email#22,address#23,phone_number#24L] csv
+
+2024-09-10 09:03:58,523 - root - ERROR - Error in main, please check details [UNRESOLVED_COLUMN.WITH_SUGGESTION] A column or function parameter with name `total_orders` cannot be resolved. Did you mean one of the following? [`address`, `full_name`, `first_name`, `last_name`, `phone_number`].;
+'Aggregate [customer_id#19], [customer_id#19, first(full_name#31, false) AS full_name#81, first(email_cleaned#40, false) AS email_cleaned#83, first(address_cleaned#49, false) AS address_cleaned#85, first(phone_number_cleaned#59, false) AS phone_number_cleaned#87, sum(cast('total_orders as int)) AS total_orders#89]
++- Project [customer_id#19, first_name#20, last_name#21, email#22, address#23, phone_number#24L, full_name#31, email_cleaned#40, address_cleaned#49, CASE WHEN isnull(phone_number#24L) THEN Phone Not Available ELSE regexp_replace(cast(phone_number#24L as string), [^0-9], , 1) END AS phone_number_cleaned#59]
+   +- Project [customer_id#19, first_name#20, last_name#21, email#22, address#23, phone_number#24L, full_name#31, email_cleaned#40, CASE WHEN isnull(address#23) THEN Address Not Available ELSE address#23 END AS address_cleaned#49]
+      +- Project [customer_id#19, first_name#20, last_name#21, email#22, address#23, phone_number#24L, full_name#31, CASE WHEN (Contains(email#22, @) AND Contains(email#22, .)) THEN email#22 ELSE cast(null as string) END AS email_cleaned#40]
+         +- Project [customer_id#19, first_name#20, last_name#21, email#22, address#23, phone_number#24L, concat_ws(, , first_name#20, last_name#21) AS full_name#31]
+            +- Relation [customer_id#19,first_name#20,last_name#21,email#22,address#23,phone_number#24L] csv
+
+2024-09-10 09:08:43,347 - root - INFO - Pipeline Started
+2024-09-10 09:08:43,347 - create_objects - INFO - Spark Object Creation started
+2024-09-10 09:08:58,255 - validations - INFO - validate_spark_object() started
+2024-09-10 09:09:06,559 - validations - INFO - validate_spark_object() ended
+2024-09-10 09:09:06,559 - validations - WARNING - Spark Object validation success
+2024-09-10 09:09:06,560 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 09:09:08,277 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 09:09:08,277 - data_cleaning - INFO - Cleaning student DF started
+2024-09-10 09:09:10,655 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 09:09:11,093 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 09:09:11,093 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 09:09:11,396 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 09:09:11,396 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json with json extension
+2024-09-10 09:09:11,723 - root - INFO - Dataframe create successfully and dataframe name is : customer_review_df 
+2024-09-10 09:09:11,723 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv with csv extension
+2024-09-10 09:09:12,336 - root - INFO - Dataframe create successfully and dataframe name is : sample_order_table_df
+2024-09-10 09:09:13,732 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 09:09:14,035 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 09:09:14,035 - data_cleaning - INFO - Cleaning student DF started
+2024-09-10 09:09:14,611 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 09:09:14,853 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 09:09:14,853 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 09:09:15,060 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 09:09:15,060 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 09:09:15,351 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 09:09:15,351 - data_cleaning - INFO - Cleaning student DF started
+2024-09-10 09:09:15,884 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 09:09:16,141 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 09:09:16,142 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 09:09:16,393 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 09:09:16,393 - root - INFO - Pipeline End
+2024-09-10 10:10:39,683 - root - INFO - Pipeline Started
+2024-09-10 10:10:39,696 - create_objects - INFO - Spark Object Creation started
+2024-09-10 10:10:58,616 - validations - INFO - validate_spark_object() started
+2024-09-10 10:11:10,969 - validations - INFO - validate_spark_object() ended
+2024-09-10 10:11:10,969 - validations - WARNING - Spark Object validation success
+2024-09-10 10:11:10,969 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 10:11:13,696 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 10:11:13,696 - data_cleaning - INFO - Cleaning student DF started
+2024-09-10 10:11:17,105 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 10:11:17,612 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 10:11:17,612 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 10:11:18,048 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 10:11:18,049 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json with json extension
+2024-09-10 10:11:18,405 - root - INFO - Dataframe create successfully and dataframe name is : customer_review_df 
+2024-09-10 10:11:18,405 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv with csv extension
+2024-09-10 10:11:19,334 - root - INFO - Dataframe create successfully and dataframe name is : sample_order_table_df
+2024-09-10 10:11:21,143 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 10:11:21,574 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 10:11:21,575 - data_cleaning - INFO - Cleaning student DF started
+2024-09-10 10:11:22,354 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 10:11:22,732 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 10:11:22,733 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 10:11:22,989 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 10:11:22,989 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-10 10:11:23,256 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-10 10:11:23,256 - data_cleaning - INFO - Cleaning student DF started
+2024-09-10 10:11:23,934 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv with tsv extension
+2024-09-10 10:11:24,213 - root - INFO - Dataframe create successfully and dataframe name is: sample_product_catalog_df
+2024-09-10 10:11:24,213 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv with tsv extension
+2024-09-10 10:11:24,482 - root - INFO - Dataframe create successfully and dataframe name is:product_table_df 
+2024-09-10 10:11:24,482 - root - INFO - Pipeline End
+2024-09-12 08:51:37,267 - root - INFO - Pipeline Started
+2024-09-12 08:51:37,282 - create_objects - INFO - Spark Object Creation started
+2024-09-12 08:51:55,832 - validations - INFO - validate_spark_object() started
+2024-09-12 08:52:08,282 - validations - INFO - validate_spark_object() ended
+2024-09-12 08:52:08,283 - validations - WARNING - Spark Object validation success
+2024-09-12 08:52:08,283 - data_ingest - INFO - Creating DF for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv with tsv extension
+2024-09-12 08:52:10,943 - root - INFO - Dataframe create successfully and dataframe name is :sample_customer_table_df
+2024-09-12 08:52:10,943 - root - ERROR - Error in main, please check details clean_customer_df() missing 1 required positional argument: 'order_df'
+2024-09-12 09:17:22,902 - root - INFO - Pipeline Started
+2024-09-12 09:17:22,902 - create_objects - INFO - Spark Object Creation started
+2024-09-12 09:17:39,296 - validations - INFO - validate_spark_object() started
+2024-09-12 09:17:49,947 - validations - INFO - validate_spark_object() ended
+2024-09-12 09:17:49,948 - validations - WARNING - Spark Object validation success
+2024-09-12 09:17:49,948 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 09:17:52,181 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 09:17:52,181 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 09:17:52,782 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 09:17:52,783 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 09:17:53,295 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 09:17:53,295 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json for json
+2024-09-12 09:17:53,680 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_review_df
+2024-09-12 09:17:53,682 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv for csv
+2024-09-12 09:17:54,464 - root - INFO - Dataframe create succesfully and Dataframe names is : orders_df
+2024-09-12 09:17:54,464 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 09:17:54,872 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 09:17:54,872 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 09:17:55,194 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 09:17:55,194 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 09:17:55,546 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 09:17:55,546 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 09:17:55,925 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 09:17:55,925 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 09:17:56,220 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 09:17:56,220 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 09:17:56,496 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 09:17:56,496 - data_cleaning - INFO - Cleaning ordered dataframe started
+2024-09-12 09:17:56,952 - data_cleaning - INFO - Orderd data cleaning sucessfully Done.
+2024-09-12 09:17:56,952 - data_cleaning - INFO - Enrichment of customer dataframe started
+2024-09-12 09:17:57,281 - data_cleaning - INFO - Enrichment of Customer data is sucessfully Done.
+2024-09-12 09:17:57,281 - data_cleaning - INFO - Enrichment of product dataframe started
+2024-09-12 09:17:57,441 - data_cleaning - INFO - Enrichment Production sucessfully Done.
+2024-09-12 09:30:47,784 - root - INFO - Pipeline Started
+2024-09-12 09:30:47,786 - create_objects - INFO - Spark Object Creation started
+2024-09-12 09:31:06,193 - validations - INFO - validate_spark_object() started
+2024-09-12 09:31:20,477 - validations - INFO - validate_spark_object() ended
+2024-09-12 09:31:20,477 - validations - WARNING - Spark Object validation success
+2024-09-12 09:31:20,477 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 09:31:23,417 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 09:31:23,417 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 09:31:24,029 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 09:31:24,030 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 09:31:24,625 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 09:31:24,625 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json for json
+2024-09-12 09:31:25,088 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_review_df
+2024-09-12 09:31:25,088 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv for csv
+2024-09-12 09:31:26,079 - root - INFO - Dataframe create succesfully and Dataframe names is : orders_df
+2024-09-12 09:31:26,079 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 09:31:26,620 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 09:31:26,620 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 09:31:26,966 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 09:31:26,967 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 09:31:27,373 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 09:31:27,373 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 09:31:27,764 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 09:31:27,765 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 09:31:28,145 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 09:31:28,145 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 09:31:28,425 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 09:31:28,426 - data_cleaning - INFO - Cleaning ordered dataframe started
+2024-09-12 09:31:28,835 - data_cleaning - INFO - Orderd data cleaning sucessfully Done.
+2024-09-12 09:31:28,836 - data_cleaning - INFO - Enrichment of customer dataframe started
+2024-09-12 09:31:29,122 - data_cleaning - INFO - Enrichment of Customer data is sucessfully Done.
+2024-09-12 09:31:29,123 - data_cleaning - INFO - Enrichment of product dataframe started
+2024-09-12 09:31:29,285 - data_cleaning - INFO - Enrichment Production sucessfully Done.
+2024-09-12 09:31:29,285 - data_transformation - INFO - Star Schema creation started...!
+2024-09-12 09:31:29,950 - data_transformation - INFO - Star Schema created successfully...!
+2024-09-12 10:39:54,944 - root - INFO - Pipeline Started
+2024-09-12 10:39:54,944 - create_objects - INFO - Spark Object Creation started
+2024-09-12 10:40:11,321 - validations - INFO - validate_spark_object() started
+2024-09-12 11:03:24,453 - validations - INFO - validate_spark_object() ended
+2024-09-12 11:03:24,454 - validations - WARNING - Spark Object validation success
+2024-09-12 11:03:24,454 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:03:27,061 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:03:27,061 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:03:27,720 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:03:27,721 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:03:28,471 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:03:28,472 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json for json
+2024-09-12 11:03:29,167 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_review_df
+2024-09-12 11:03:29,168 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv for csv
+2024-09-12 11:03:29,898 - root - INFO - Dataframe create succesfully and Dataframe names is : orders_df
+2024-09-12 11:03:29,898 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:03:30,303 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:03:30,303 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:03:30,856 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:03:30,856 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:03:31,247 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:03:31,247 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:03:31,713 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:03:31,714 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:03:32,161 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:03:32,162 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:03:32,499 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:03:32,499 - data_cleaning - INFO - Cleaning ordered dataframe started
+2024-09-12 11:03:32,985 - data_cleaning - INFO - Orderd data cleaning sucessfully Done.
+2024-09-12 11:03:32,985 - data_cleaning - INFO - Enrichment of customer dataframe started
+2024-09-12 11:03:33,362 - data_cleaning - INFO - Enrichment of Customer data is sucessfully Done.
+2024-09-12 11:03:33,362 - data_cleaning - INFO - Enrichment of product dataframe started
+2024-09-12 11:03:33,644 - data_cleaning - INFO - Enrichment Production sucessfully Done.
+2024-09-12 11:03:33,645 - data_transformation - INFO - Star Schema creation started...!
+2024-09-12 11:03:34,376 - data_transformation - INFO - Star Schema created successfully...!
+2024-09-12 11:03:48,320 - root - INFO - Pipeline Started
+2024-09-12 11:03:48,320 - create_objects - INFO - Spark Object Creation started
+2024-09-12 11:04:04,480 - validations - INFO - validate_spark_object() started
+2024-09-12 11:04:15,068 - validations - INFO - validate_spark_object() ended
+2024-09-12 11:04:15,068 - validations - WARNING - Spark Object validation success
+2024-09-12 11:04:15,068 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:04:17,285 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:04:17,285 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:04:17,724 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:04:17,724 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:04:18,119 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:04:18,119 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json for json
+2024-09-12 11:04:18,498 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_review_df
+2024-09-12 11:04:18,498 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv for csv
+2024-09-12 11:04:19,265 - root - INFO - Dataframe create succesfully and Dataframe names is : orders_df
+2024-09-12 11:04:19,266 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:04:19,763 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:04:19,763 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:04:20,164 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:04:20,165 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:04:20,536 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:04:20,537 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:04:20,934 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:04:20,935 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:04:21,213 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:04:21,213 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:04:21,484 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:04:21,484 - data_cleaning - INFO - Cleaning ordered dataframe started
+2024-09-12 11:04:22,026 - data_cleaning - INFO - Orderd data cleaning sucessfully Done.
+2024-09-12 11:04:22,026 - data_cleaning - INFO - Enrichment of customer dataframe started
+2024-09-12 11:04:22,380 - data_cleaning - INFO - Enrichment of Customer data is sucessfully Done.
+2024-09-12 11:04:22,382 - data_cleaning - INFO - Enrichment of product dataframe started
+2024-09-12 11:04:22,545 - data_cleaning - INFO - Enrichment Production sucessfully Done.
+2024-09-12 11:04:22,545 - data_transformation - INFO - Star Schema creation started...!
+2024-09-12 11:04:23,078 - data_transformation - INFO - Star Schema created successfully...!
+2024-09-12 11:53:46,889 - root - INFO - Pipeline Started
+2024-09-12 11:53:46,890 - create_objects - INFO - Spark Object Creation started
+2024-09-12 11:54:03,968 - validations - INFO - validate_spark_object() started
+2024-09-12 11:54:14,416 - validations - INFO - validate_spark_object() ended
+2024-09-12 11:54:14,416 - validations - WARNING - Spark Object validation success
+2024-09-12 11:54:14,416 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:54:16,563 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:54:16,563 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:54:17,078 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:54:17,079 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:54:17,496 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:54:17,496 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customer_reviews.json for json
+2024-09-12 11:54:17,975 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_review_df
+2024-09-12 11:54:17,975 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_orders.csv for csv
+2024-09-12 11:54:18,887 - root - INFO - Dataframe create succesfully and Dataframe names is : orders_df
+2024-09-12 11:54:18,887 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:54:19,223 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:54:19,224 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:54:19,558 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:54:19,559 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:54:20,011 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:54:20,012 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_customers.tsv for tsv
+2024-09-12 11:54:20,309 - root - INFO - Dataframe create succesfully and Dataframe names is : customer_df
+2024-09-12 11:54:20,309 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_products.tsv for tsv
+2024-09-12 11:54:20,596 - root - INFO - Dataframe create succesfully and Dataframe names is : product_df
+2024-09-12 11:54:20,596 - data_ingest - INFO - Creating dataframe for F:\Data_engineer\Python\pysparkProject_medallian\data\sample_product_catalog.tsv for tsv
+2024-09-12 11:54:20,967 - root - INFO - Dataframe create succesfully and Dataframe names is : product_catalog_df
+2024-09-12 11:54:20,969 - data_cleaning - INFO - Cleaning ordered dataframe started
+2024-09-12 11:54:21,438 - data_cleaning - INFO - Orderd data cleaning sucessfully Done.
+2024-09-12 11:54:21,439 - data_cleaning - INFO - Enrichment of customer dataframe started
+2024-09-12 11:54:21,760 - data_cleaning - INFO - Enrichment of Customer data is sucessfully Done.
+2024-09-12 11:54:21,760 - data_cleaning - INFO - Enrichment of product dataframe started
+2024-09-12 11:54:21,928 - data_cleaning - INFO - Enrichment Production sucessfully Done.
+2024-09-12 11:54:21,928 - data_transformation - INFO - Star Schema creation started...!
+2024-09-12 11:54:22,714 - data_transformation - INFO - Star Schema created successfully...!

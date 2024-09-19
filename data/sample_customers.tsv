@@ -1,0 +1,30 @@
+customer_id	first_name	last_name	email	address	phone_number
+CUST028	Bob	Garcia	bob.garcia@example.com	620 Broadway, Chicago	+19628708430
+CUST030	John	Johnson	john.johnson@example.com	298 Main St, Los Angeles	+13129313691
+CUST008	Grace	Brown	grace.brown@example.com	265 Highland Ave, Houston	+11674183789
+CUST011	Charlie	Williams	charlie.williams@example.com	920 Broadway, Chicago	+12408540485
+CUST024	Frank	Miller	frank.miller@example.com	599 Second St, New York	+19681906827
+CUST012	Eva	Garcia	eva.garcia@example.com	543 Broadway, Houston	+16171168327
+CUST002	Alice	Brown	alice.brown@example.com	436 Main St, New York	+12561270936
+CUST020	Charlie	Brown	charlie.brown@example.com	577 Second St, New York	+12220022538
+CUST010	John	Miller	john.miller@example.com	171 Broadway, New York	+16445041435
+CUST021	Frank	Davis	frank.davis@example.com	784 Second St, Phoenix	+11228327530
+CUST013	David	Johnson	david.johnson@example.com	564 Second St, Houston	+14130497970
+CUST003	Charlie	Smith	charlie.smith@example.com	950 Main St, Houston	+16830870480
+CUST015	David	Williams	david.williams@example.com	928 Main St, Houston	+13202186662
+CUST009	Frank	Davis	frank.davis@example.com	553 Highland Ave, Phoenix	+15511440032
+CUST014	John	Martinez	john.martinez@example.com	714 Second St, Houston	+19340741295
+CUST017	David	Jones	david.jones@example.com	311 Highland Ave, Houston	+17295656065
+CUST027	Charlie	Jones	charlie.jones@example.com	389 Broadway, Houston	+19219996696
+CUST022	Eva	Williams	eva.williams@example.com	256 Highland Ave, Houston	+14111074673
+CUST001	John	Miller	john.miller@example.com	529 Second St, Houston	+19064804826
+CUST019	Hank	Johnson	hank.johnson@example.com	877 Main St, Los Angeles	+17158248213
+CUST018	Alice	Garcia	alice.garcia@example.com	901 Highland Ave, Chicago	+13956853230
+CUST005	Eva	Martinez	eva.martinez@example.com	614 Highland Ave, New York	+17556335580
+CUST023	Jane	Johnson	jane.johnson@example.com	671 Highland Ave, New York	+19946934214
+CUST026	David	Martinez	david.martinez@example.com	972 Main St, Los Angeles	+17295986997
+CUST029	Jane	Jones	jane.jones@example.com	453 Main St, Houston	+11689562576
+CUST004	Hank	Smith	hank.smith@example.com	742 Highland Ave, Los Angeles	+14309626930
+CUST025	Bob	Johnson	bob.johnson@example.com	701 Sunset Blvd, New York	+18581611637
+CUST016	Eva	Martinez	eva.martinez@example.com	444 Broadway, New York	+19075009068
+CUST007	Frank	Brown	frank.brown@example.com	357 Broadway, Houston	+12729797070
